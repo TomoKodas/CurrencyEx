@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/tests/">
+    <Project Path="tests/CurrencyExchange.Application.Tests/CurrencyExchange.Application.Tests.csproj" />
+    <Project Path="tests/CurrencyExchange.Cli.Tests/CurrencyExchange.Cli.Tests.csproj" />
+    <Project Path="tests/CurrencyExchange.DataAccess.Tests/CurrencyExchange.DataAccess.Tests.csproj" />
+    <Project Path="tests/CurrencyExchange.Domain.Tests/CurrencyExchange.Domain.Tests.csproj" />
+  </Folder>
+  <Project Path="CurrencyExchange.Application/CurrencyExchange.Application.csproj" />
+  <Project Path="CurrencyExchange.Cli/CurrencyExchange.Cli.csproj" />
+  <Project Path="CurrencyExchange.DataAccess/CurrencyExchange.DataAccess.csproj" />
+  <Project Path="CurrencyExchange.Domain/CurrencyExchange.Domain.csproj" />
+</Solution>

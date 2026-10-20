@@ -1,0 +1,13 @@
+{
+  "baseCurrency": "DKK",
+  "unitAmount": 100,
+  "rates": [
+    { "currency": "EUR", "baseCurrencyAmount": 743.94 },
+    { "currency": "USD", "baseCurrencyAmount": 663.11 },
+    { "currency": "GBP", "baseCurrencyAmount": 852.85 },
+    { "currency": "SEK", "baseCurrencyAmount": 76.10 },
+    { "currency": "NOK", "baseCurrencyAmount": 78.40 },
+    { "currency": "CHF", "baseCurrencyAmount": 683.58 },
+    { "currency": "JPY", "baseCurrencyAmount": 5.9740 }
+  ]
+}
